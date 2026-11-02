@@ -21,7 +21,7 @@ src/experiment.py   runs all scenarios and the loss sweep, writes CSVs to result
 src/plots.py        draws every graph in graphs/ from the CSVs
 results/            scenarios.csv, loss_sweep.csv, per-packet logs (packets/*.csv), run_log.txt
 graphs/             PNG figures used in the report
-report/             the case study report (DOCX and PDF)
+report/             the case study report (DOCX and PDF) and build_report.py that generates it
 ```
 
 ## How to run
